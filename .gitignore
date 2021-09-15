@@ -2,6 +2,10 @@
 .Rhistory
 .Rapp.history
 
+# 파일명은 상관 없고, 확장자가 work먄 관리X
+*.work
+
+
 # Session Data files
 .RData
 
